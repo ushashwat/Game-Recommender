@@ -1,4 +1,4 @@
-# AI Game Recommender
+# Game Recommender
 
 A locally runnable TypeScript related-games recommendation service with an offline AI enrichment and embedding pipeline, built for a multi-brand, regulated, real-money casino site.
 

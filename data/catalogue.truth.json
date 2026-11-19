@@ -1,0 +1,2139 @@
+[
+  {
+    "id": "g_0001",
+    "canonicalId": "tomb-of-anubis|sunforge-studios",
+    "title": "Tomb of Anubis",
+    "provider": "Sunforge Studios",
+    "category": "slot",
+    "description": "A five-reel expedition through a sandstone burial chamber, with scarabs, urns, and Anubis symbols. Cascading wins can trigger free spins, where expanding wilds cover additional reel positions.",
+    "themes": [
+      "ancient-egypt",
+      "adventure"
+    ],
+    "mechanics": [
+      "cascading-reels",
+      "free-spins",
+      "expanding-wilds"
+    ],
+    "volatility": "high",
+    "rtp": 96.12,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2020-03-12"
+  },
+  {
+    "id": "g_0002",
+    "canonicalId": "tomb-of-anubis-2-serpent-s-vault|sunforge-studios",
+    "title": "Tomb of Anubis 2: Serpent's Vault",
+    "provider": "Sunforge Studios",
+    "category": "slot",
+    "description": "This sequel follows a new expedition into a sealed chamber lined with serpent carvings and Egyptian relics. The five-reel game uses paylines and sticky wilds, with free spins awarded by landing vault symbols.",
+    "themes": [
+      "ancient-egypt",
+      "adventure"
+    ],
+    "mechanics": [
+      "paylines",
+      "sticky-wilds",
+      "free-spins"
+    ],
+    "volatility": "high",
+    "rtp": 95.84,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2022-08-19"
+  },
+  {
+    "id": "g_0003",
+    "canonicalId": "tomb-of-anubis-megaways|sunforge-studios",
+    "title": "Tomb of Anubis Megaways",
+    "provider": "Sunforge Studios",
+    "category": "slot",
+    "description": "An expanded tomb layout shifts the number of symbols on each reel as players search for Anubis treasures. The Megaways system creates changing winning combinations, while cascades and multipliers can build during a sequence.",
+    "themes": [
+      "ancient-egypt",
+      "adventure"
+    ],
+    "mechanics": [
+      "megaways",
+      "cascading-reels",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 96.48,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2024-04-05"
+  },
+  {
+    "id": "g_0004",
+    "canonicalId": "pharaoh-s-curse|mythic-spin",
+    "title": "Pharaoh's Curse",
+    "provider": "Mythic Spin",
+    "category": "slot",
+    "description": "A five-reel temple scene features a pharaoh, jeweled masks, and symbols from ancient Egyptian mythology. Paylines connect matching symbols, and a pick bonus lets players uncover rewards among sealed sarcophagi.",
+    "themes": [
+      "ancient-egypt",
+      "mythology"
+    ],
+    "mechanics": [
+      "paylines",
+      "pick-bonus",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 95.31,
+    "brands": [
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2019-11-21"
+  },
+  {
+    "id": "g_0005",
+    "canonicalId": "pharaoh-s-curse-sands-of-judgment|mythic-spin",
+    "title": "Pharaoh's Curse: Sands of Judgment",
+    "provider": "Mythic Spin",
+    "category": "slot",
+    "description": "The sequel moves the action from the temple to a desert judgment hall guarded by jackal statues. Its six-reel layout features ways to win, with expanding wilds appearing during free spins.",
+    "themes": [
+      "ancient-egypt",
+      "mythology"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "expanding-wilds",
+      "free-spins"
+    ],
+    "volatility": "high",
+    "rtp": 96.73,
+    "brands": [
+      "redcrest",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2023-06-14"
+  },
+  {
+    "id": "g_0006",
+    "canonicalId": "blackflag-treasure-run|emerald-harbor",
+    "title": "Blackflag Treasure Run",
+    "provider": "Emerald Harbor",
+    "category": "slot",
+    "description": "A pirate crew sails between island maps, ship decks, and hidden caches across five reels. Winning combinations can trigger cascading reels, while a hold-and-win feature collects coin symbols in a separate bonus round.",
+    "themes": [
+      "pirates",
+      "adventure"
+    ],
+    "mechanics": [
+      "cascading-reels",
+      "hold-and-win",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 95.67,
+    "brands": [
+      "lucky-harbour",
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2021-05-27"
+  },
+  {
+    "id": "g_0007",
+    "canonicalId": "blackflag-treasure-run-2-kraken-s-wake|emerald-harbor",
+    "title": "Blackflag Treasure Run 2: Kraken's Wake",
+    "provider": "Emerald Harbor",
+    "category": "slot",
+    "description": "This sequel sends the Blackflag crew into waters marked by a legendary sea monster and scattered shipwrecks. The reel set uses ways to win, and free spins can add sticky wilds to the grid.",
+    "themes": [
+      "pirates",
+      "mythology",
+      "adventure"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "sticky-wilds",
+      "free-spins"
+    ],
+    "volatility": "high",
+    "rtp": 96.05,
+    "brands": [
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2023-10-03"
+  },
+  {
+    "id": "g_0008",
+    "canonicalId": "blackflag-treasure-run-megaways|emerald-harbor",
+    "title": "Blackflag Treasure Run Megaways",
+    "provider": "Emerald Harbor",
+    "category": "slot",
+    "description": "A shifting reel configuration charts a pirate voyage through coves, forts, and stormy passages. Megaways combinations can cascade, and multipliers increase when consecutive wins land during the same turn.",
+    "themes": [
+      "pirates",
+      "adventure"
+    ],
+    "mechanics": [
+      "megaways",
+      "cascading-reels",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 96.41,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2025-02-18"
+  },
+  {
+    "id": "g_0009",
+    "canonicalId": "sphinx-gateways|northwind-gaming",
+    "title": "Sphinx Gateways",
+    "provider": "Northwind Gaming",
+    "category": "slot",
+    "description": "A set of stone gateways leads through an ancient Egyptian complex filled with hieroglyphs and relics. The five-reel game pays across paylines, with free spins featuring a wild symbol that expands when it appears.",
+    "themes": [
+      "ancient-egypt",
+      "adventure"
+    ],
+    "mechanics": [
+      "paylines",
+      "free-spins",
+      "expanding-wilds"
+    ],
+    "volatility": "medium",
+    "rtp": 94.92,
+    "brands": [
+      "lucky-harbour",
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2020-09-08"
+  },
+  {
+    "id": "g_0010",
+    "canonicalId": "scarab-caravan|cobalt-play",
+    "title": "Scarab Caravan",
+    "provider": "Cobalt Play",
+    "category": "slot",
+    "description": "Travelers cross an Egyptian desert with scarab charms, canopic jars, and caravan goods arranged on a six-reel grid. Cluster pays reward adjacent matching symbols, and cascades refill spaces after each winning group.",
+    "themes": [
+      "ancient-egypt",
+      "adventure"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels",
+      "multipliers"
+    ],
+    "volatility": "medium",
+    "rtp": 96.22,
+    "brands": [
+      "redcrest",
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2022-01-16"
+  },
+  {
+    "id": "g_0011",
+    "canonicalId": "horus-falcon-of-the-dawn|starlight-works",
+    "title": "Horus: Falcon of the Dawn",
+    "provider": "Starlight Works",
+    "category": "slot",
+    "description": "Horus watches over a temple landscape presented on five reels with symbols drawn from Egyptian mythology. Landing special falcon symbols can start free spins, where multipliers apply to line wins.",
+    "themes": [
+      "ancient-egypt",
+      "mythology"
+    ],
+    "mechanics": [
+      "paylines",
+      "free-spins",
+      "multipliers"
+    ],
+    "volatility": "medium",
+    "rtp": 95.48,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2019-04-29"
+  },
+  {
+    "id": "g_0012",
+    "canonicalId": "osiris-and-the-green-kingdom|velvet-reel",
+    "title": "Osiris and the Green Kingdom",
+    "provider": "Velvet Reel",
+    "category": "slot",
+    "description": "This mythological slot depicts Osiris amid lush fields, river boats, and monumental Egyptian architecture. Its five reels use ways to win, while a pick bonus opens a choice of sealed offerings.",
+    "themes": [
+      "ancient-egypt",
+      "mythology"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "pick-bonus",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 96.31,
+    "brands": [
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2021-12-02"
+  },
+  {
+    "id": "g_0013",
+    "canonicalId": "atlas-pillars-of-the-sky|ironclad-interactive",
+    "title": "Atlas: Pillars of the Sky",
+    "provider": "Ironclad Interactive",
+    "category": "slot",
+    "description": "A mythic landscape of mountain pillars and celestial symbols forms the backdrop for this five-reel game. Paylines lead into free spins, where sticky wilds remain in place for the duration of the bonus round.",
+    "themes": [
+      "mythology",
+      "fantasy"
+    ],
+    "mechanics": [
+      "paylines",
+      "sticky-wilds",
+      "free-spins"
+    ],
+    "volatility": "high",
+    "rtp": 95.76,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2022-07-11"
+  },
+  {
+    "id": "g_0014",
+    "canonicalId": "labyrinth-of-the-minotaur|mythic-spin",
+    "title": "Labyrinth of the Minotaur",
+    "provider": "Mythic Spin",
+    "category": "slot",
+    "description": "A winding stone maze surrounds the Minotaur and other figures from Greek mythology across a six-reel layout. Cluster wins cause symbols to cascade, and a multiplier can rise with consecutive winning drops.",
+    "themes": [
+      "mythology",
+      "adventure"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 96.58,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2024-09-23"
+  },
+  {
+    "id": "g_0015",
+    "canonicalId": "medusa-s-mirror-hall|sunforge-studios",
+    "title": "Medusa's Mirror Hall",
+    "provider": "Sunforge Studios",
+    "category": "slot",
+    "description": "This five-reel game places players in a mythic hall of mirrors filled with stone figures and Medusa motifs. Ways-to-win combinations can lead to free spins, with expanding wilds appearing during the feature.",
+    "themes": [
+      "mythology",
+      "fantasy"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "free-spins",
+      "expanding-wilds"
+    ],
+    "volatility": "high",
+    "rtp": 94.71,
+    "brands": [
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2020-06-30"
+  },
+  {
+    "id": "g_0016",
+    "canonicalId": "pegasus-over-the-aegean|starlight-works",
+    "title": "Pegasus Over the Aegean",
+    "provider": "Starlight Works",
+    "category": "slot",
+    "description": "Pegasus flies above a coastline of temples and islands depicted across five reels. Payline wins can trigger a pick bonus in which players reveal destinations and their associated game features.",
+    "themes": [
+      "mythology",
+      "adventure"
+    ],
+    "mechanics": [
+      "paylines",
+      "pick-bonus",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 95.93,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "inactive",
+    "releaseDate": "2023-03-09"
+  },
+  {
+    "id": "g_0017",
+    "canonicalId": "the-oracle-s-star-map|northwind-gaming",
+    "title": "The Oracle's Star Map",
+    "provider": "Northwind Gaming",
+    "category": "slot",
+    "description": "An oracle charts a mythic voyage through constellations, temples, and distant islands on a six-reel game. The layout offers ways to win, with cascading reels and multipliers affecting successive wins.",
+    "themes": [
+      "mythology",
+      "adventure",
+      "fantasy"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "cascading-reels",
+      "multipliers"
+    ],
+    "volatility": "medium",
+    "rtp": 96.08,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2021-08-17"
+  },
+  {
+    "id": "g_0018",
+    "canonicalId": "corsair-s-compass|emerald-harbor",
+    "title": "Corsair's Compass",
+    "provider": "Emerald Harbor",
+    "category": "slot",
+    "description": "A pirate compass points toward islands, shipwrecks, and chests shown across five reels. Paylines form the base game, while a hold-and-win bonus collects coin symbols before the round ends.",
+    "themes": [
+      "pirates",
+      "adventure"
+    ],
+    "mechanics": [
+      "paylines",
+      "hold-and-win",
+      "pick-bonus"
+    ],
+    "volatility": "medium",
+    "rtp": 95.19,
+    "brands": [
+      "redcrest",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2019-02-14"
+  },
+  {
+    "id": "g_0019",
+    "canonicalId": "galleon-of-the-seven-tides|cobalt-play",
+    "title": "Galleon of the Seven Tides",
+    "provider": "Cobalt Play",
+    "category": "slot",
+    "description": "A richly detailed galleon sails through seven distinct sea regions represented by symbols on six reels. The game uses cluster pays and cascading reels, with free spins adding multipliers to qualifying drops.",
+    "themes": [
+      "pirates",
+      "adventure",
+      "underwater"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels",
+      "free-spins",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 96.86,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2025-07-02"
+  },
+  {
+    "id": "g_0020",
+    "canonicalId": "blackbeard-s-hidden-anchorage|ironclad-interactive",
+    "title": "Blackbeard's Hidden Anchorage",
+    "provider": "Ironclad Interactive",
+    "category": "slot",
+    "description": "A secluded pirate harbor hides barrels, maps, and a locked treasure store across five reels. Landing anchor symbols can start a hold-and-win round, while ordinary wins follow a set of paylines.",
+    "themes": [
+      "pirates",
+      "adventure"
+    ],
+    "mechanics": [
+      "paylines",
+      "hold-and-win",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 94.88,
+    "brands": [
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2022-11-30"
+  },
+  {
+    "id": "g_0021",
+    "canonicalId": "drowned-crown-of-poseidon|velvet-reel",
+    "title": "Drowned Crown of Poseidon",
+    "provider": "Velvet Reel",
+    "category": "slot",
+    "description": "A sunken royal chamber combines pirate wreckage with imagery from the mythology of Poseidon. Its expanding-reel layout offers ways to win, and free spins can add sticky wilds to the underwater grid.",
+    "themes": [
+      "pirates",
+      "mythology",
+      "underwater"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "free-spins",
+      "sticky-wilds"
+    ],
+    "volatility": "high",
+    "rtp": 95.62,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2024-01-25"
+  },
+  {
+    "id": "g_0022",
+    "canonicalId": "jungle-relic-expedition|northwind-gaming",
+    "title": "Jungle Relic Expedition",
+    "provider": "Northwind Gaming",
+    "category": "slot",
+    "description": "An expedition searches a jungle temple for carved relics, ancient maps, and hidden chambers on a five-reel layout. Cascading wins can lead to free spins, where multipliers apply to successive symbol drops.",
+    "themes": [
+      "adventure",
+      "ancient-egypt"
+    ],
+    "mechanics": [
+      "paylines",
+      "cascading-reels",
+      "free-spins",
+      "multipliers"
+    ],
+    "volatility": "medium",
+    "rtp": 96.27,
+    "brands": [
+      "lucky-harbour",
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2023-12-07"
+  },
+  {
+    "id": "g_0023",
+    "canonicalId": "ruby-orchard-reels|sunforge-studios",
+    "title": "Ruby Orchard Reels",
+    "provider": "Sunforge Studios",
+    "category": "slot",
+    "description": "A five-reel fruit machine pairs cherries, plums, and bell symbols with an orchard-market backdrop. Paylines connect matching symbols, while free spins can add multipliers to wins.",
+    "themes": [
+      "fruit-classic"
+    ],
+    "mechanics": [
+      "paylines",
+      "free-spins",
+      "multipliers"
+    ],
+    "volatility": "medium",
+    "rtp": 96.12,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2020-03-12"
+  },
+  {
+    "id": "g_0024",
+    "canonicalId": "citrus-bell-boulevard|northwind-gaming",
+    "title": "Citrus Bell Boulevard",
+    "provider": "Northwind Gaming",
+    "category": "slot",
+    "description": "Lemons, oranges, and bells appear across a five-reel grid styled as a vintage city arcade. The game uses ways-to-win payouts and expanding wilds that can cover reel positions during free spins.",
+    "themes": [
+      "fruit-classic"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "expanding-wilds",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 95.84,
+    "brands": [
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2021-06-24"
+  },
+  {
+    "id": "g_0025",
+    "canonicalId": "emerald-clover|emerald-harbor",
+    "title": "Emerald Clover",
+    "provider": "Emerald Harbor",
+    "category": "slot",
+    "description": "Four-leaf clovers, horseshoes, and gold coins fill a five-reel cabinet framed by an Irish countryside scene. Paylines award matching-symbol wins, and a pick bonus reveals additional prizes between spins.",
+    "themes": [
+      "irish-luck"
+    ],
+    "mechanics": [
+      "paylines",
+      "pick-bonus",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 96.3,
+    "brands": [
+      "lucky-harbour",
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2022-03-17"
+  },
+  {
+    "id": "g_0026",
+    "canonicalId": "emerald-clover-hold-and-win|emerald-harbor",
+    "title": "Emerald Clover Hold and Win",
+    "provider": "Emerald Harbor",
+    "category": "slot",
+    "description": "This sequel returns to a five-reel Irish countryside game with clovers, coins, and horseshoes. Its hold-and-win feature locks coin symbols in place for respins, with multipliers available during the bonus round.",
+    "themes": [
+      "irish-luck"
+    ],
+    "mechanics": [
+      "hold-and-win",
+      "multipliers",
+      "free-spins"
+    ],
+    "volatility": "high",
+    "rtp": 95.76,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2024-02-08"
+  },
+  {
+    "id": "g_0027",
+    "canonicalId": "prismforge-caverns|ironclad-interactive",
+    "title": "Prismforge Caverns",
+    "provider": "Ironclad Interactive",
+    "category": "slot",
+    "description": "A cavernous grid of colored crystals and mineral clusters forms the setting for this gem-themed slot. Matching adjacent gems clear in cluster wins, with cascading reels dropping new symbols into empty spaces.",
+    "themes": [
+      "gems",
+      "adventure"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 96.05,
+    "brands": [
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2020-11-05"
+  },
+  {
+    "id": "g_0028",
+    "canonicalId": "sapphire-tide-geodes|cobalt-play",
+    "title": "Sapphire Tide Geodes",
+    "provider": "Cobalt Play",
+    "category": "slot",
+    "description": "Sapphires, geodes, and sea-glass symbols appear on a six-by-five board beneath a coastal cliff. Cluster payouts trigger cascades, and free spins can add sticky wilds to the grid.",
+    "themes": [
+      "gems",
+      "underwater"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels",
+      "sticky-wilds",
+      "free-spins"
+    ],
+    "volatility": "high",
+    "rtp": 94.88,
+    "brands": [
+      "redcrest",
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2023-05-19"
+  },
+  {
+    "id": "g_0029",
+    "canonicalId": "neon-nebula|starlight-works",
+    "title": "Neon Nebula",
+    "provider": "Starlight Works",
+    "category": "slot",
+    "description": "A five-reel field of planets, satellites, and glowing star symbols is set against a neon space station. The game pays in ways-to-win combinations and includes free spins with reel multipliers.",
+    "themes": [
+      "space"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "free-spins",
+      "multipliers"
+    ],
+    "volatility": "medium",
+    "rtp": 96.41,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2021-09-14"
+  },
+  {
+    "id": "g_0030",
+    "canonicalId": "neon-nebula-ii-gravity-wells|starlight-works",
+    "title": "Neon Nebula II: Gravity Wells",
+    "provider": "Starlight Works",
+    "category": "slot",
+    "description": "This sequel revisits the neon space station with a six-reel layout, adding black-hole and comet symbols to the original cosmic set. Megaways-style reel changes vary the number of ways to win, while cascading reels can build multipliers during free spins.",
+    "themes": [
+      "space",
+      "adventure"
+    ],
+    "mechanics": [
+      "megaways",
+      "cascading-reels",
+      "free-spins",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 95.33,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2024-08-22"
+  },
+  {
+    "id": "g_0031",
+    "canonicalId": "hollow-manor-candlelit-hall|velvet-reel",
+    "title": "Hollow Manor: Candlelit Hall",
+    "provider": "Velvet Reel",
+    "category": "slot",
+    "description": "A five-reel haunted-house slot features candles, ravens, and portraits in a shadowed manor. Paylines connect matching symbols, while expanding wilds can spread across a reel during free spins.",
+    "themes": [
+      "horror"
+    ],
+    "mechanics": [
+      "paylines",
+      "expanding-wilds",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 96.17,
+    "brands": [
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2019-10-31"
+  },
+  {
+    "id": "g_0032",
+    "canonicalId": "moonlit-howl|mythic-spin",
+    "title": "Moonlit Howl",
+    "provider": "Mythic Spin",
+    "category": "slot",
+    "description": "Wolves, moon phases, and forest relics appear on a six-by-six grid under a midnight sky. Adjacent symbol clusters pay and cascade, with multipliers increasing when cascades continue.",
+    "themes": [
+      "horror",
+      "animals"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 95.09,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2022-10-20"
+  },
+  {
+    "id": "g_0033",
+    "canonicalId": "lucky-leprechaun-s-lantern|northwind-gaming",
+    "title": "Lucky Leprechaun's Lantern",
+    "provider": "Northwind Gaming",
+    "category": "slot",
+    "description": "A leprechaun's lantern illuminates a five-reel arrangement of shamrocks, pots, and gold coins. Ways-to-win payouts combine with a pick bonus that opens lantern doors to reveal prizes or free spins.",
+    "themes": [
+      "irish-luck",
+      "fantasy"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "pick-bonus",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 96.28,
+    "brands": [
+      "lucky-harbour"
+    ],
+    "status": "inactive",
+    "releaseDate": "2023-03-09"
+  },
+  {
+    "id": "g_0034",
+    "canonicalId": "banshee-s-gold-parade|sunforge-studios",
+    "title": "Banshee's Gold Parade",
+    "provider": "Sunforge Studios",
+    "category": "slot",
+    "description": "A spectral procession of banshees and gold ornaments crosses a five-reel landscape of green hills and stone ruins. Paylines award symbol matches, and sticky wilds can remain in place throughout a free-spins round.",
+    "themes": [
+      "irish-luck",
+      "horror"
+    ],
+    "mechanics": [
+      "paylines",
+      "sticky-wilds",
+      "free-spins"
+    ],
+    "volatility": "high",
+    "rtp": 94.72,
+    "brands": [
+      "redcrest",
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2025-01-16"
+  },
+  {
+    "id": "g_0035",
+    "canonicalId": "arctic-fox-aurora|cobalt-play",
+    "title": "Arctic Fox Aurora",
+    "provider": "Cobalt Play",
+    "category": "slot",
+    "description": "Arctic foxes, snowflakes, and northern lights populate a five-reel winter scene. Matching symbols pay across ways-to-win combinations, and free spins can activate expanding wilds on selected reels.",
+    "themes": [
+      "animals",
+      "adventure"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "expanding-wilds",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 96.53,
+    "brands": [
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2020-12-03"
+  },
+  {
+    "id": "g_0036",
+    "canonicalId": "coral-crown-reef|emerald-harbor",
+    "title": "Coral Crown Reef",
+    "provider": "Emerald Harbor",
+    "category": "slot",
+    "description": "A six-by-five underwater grid features reef fish, coral branches, and a jeweled crown. Matching neighboring symbols form clusters that clear into cascading reels, with wild symbols contributing to the next drop.",
+    "themes": [
+      "underwater",
+      "animals"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 95.64,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2022-07-28"
+  },
+  {
+    "id": "g_0037",
+    "canonicalId": "abyssal-pearl-current|ironclad-interactive",
+    "title": "Abyssal Pearl Current",
+    "provider": "Ironclad Interactive",
+    "category": "slot",
+    "description": "Pearls, sea turtles, and deep-water plants appear on a five-reel slot set in a trench illuminated by bioluminescent life. Paylines form wins, while a hold-and-win feature lets pearl symbols lock for a series of respins.",
+    "themes": [
+      "underwater",
+      "animals"
+    ],
+    "mechanics": [
+      "paylines",
+      "hold-and-win",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 94.95,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2024-04-11"
+  },
+  {
+    "id": "g_0038",
+    "canonicalId": "cleopatra-roulette-quest|mythic-spin",
+    "title": "Cleopatra Roulette Quest",
+    "provider": "Mythic Spin",
+    "category": "slot",
+    "description": "This Egyptian-themed slot uses a five-reel layout featuring Cleopatra, scarabs, and palace ornaments rather than a roulette wheel. Paylines connect matching symbols, and a pick bonus lets players choose among carved palace doors.",
+    "themes": [
+      "ancient-egypt",
+      "adventure"
+    ],
+    "mechanics": [
+      "paylines",
+      "pick-bonus",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 96.08,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2021-02-18"
+  },
+  {
+    "id": "g_0039",
+    "canonicalId": "dragon-crash-kingdom|velvet-reel",
+    "title": "Dragon Crash Kingdom",
+    "provider": "Velvet Reel",
+    "category": "slot",
+    "description": "A fantasy kingdom of dragons, towers, and jade banners frames this six-by-six slot grid. Adjacent symbols pay in clusters and cascade, while free spins introduce multipliers; the title refers to a collapsing castle motif, not a crash game mechanic.",
+    "themes": [
+      "fantasy",
+      "asian"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels",
+      "free-spins",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 95.47,
+    "brands": [
+      "redcrest",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2025-06-05"
+  },
+  {
+    "id": "g_0040",
+    "canonicalId": "cherry-comet-express|starlight-works",
+    "title": "Cherry Comet Express",
+    "provider": "Starlight Works",
+    "category": "slot",
+    "description": "Cherries, lemons, and star-shaped bells ride across five reels set inside a retro interstellar train. Paylines link classic fruit symbols, and a free-spins round can apply multipliers to wins.",
+    "themes": [
+      "fruit-classic",
+      "space"
+    ],
+    "mechanics": [
+      "paylines",
+      "free-spins",
+      "multipliers"
+    ],
+    "volatility": "low",
+    "rtp": 96.74,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2019-04-25"
+  },
+  {
+    "id": "g_0041",
+    "canonicalId": "gargoyle-s-midnight-gallery|ironclad-interactive",
+    "title": "Gargoyle's Midnight Gallery",
+    "provider": "Ironclad Interactive",
+    "category": "slot",
+    "description": "Stone gargoyles, portraits, and flickering candles decorate a six-by-six haunted gallery grid. Cluster wins clear symbols and trigger cascades, with sticky wilds able to persist for successive drops.",
+    "themes": [
+      "horror",
+      "fantasy"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels",
+      "sticky-wilds"
+    ],
+    "volatility": "high",
+    "rtp": 95.21,
+    "brands": [
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2023-10-12"
+  },
+  {
+    "id": "g_0042",
+    "canonicalId": "starwhale-deep-voyage|cobalt-play",
+    "title": "Starwhale Deep Voyage",
+    "provider": "Cobalt Play",
+    "category": "slot",
+    "description": "A luminous whale travels through an underwater expanse of kelp, bubbles, and drifting stars across five reels. Ways-to-win payouts are joined by free spins, during which expanding wilds can cover entire reels.",
+    "themes": [
+      "underwater",
+      "animals"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "expanding-wilds",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 96.36,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2025-03-27"
+  },
+  {
+    "id": "g_0043",
+    "canonicalId": "lucky-badger-s-barrel|emerald-harbor",
+    "title": "Lucky Badger's Barrel",
+    "provider": "Emerald Harbor",
+    "category": "slot",
+    "description": "A woodland badger guards a barrel of clovers and coins on a five-reel Irish-luck slot. Symbol matches pay on paylines, while a hold-and-win feature locks coin symbols for respins and can award a multiplier.",
+    "themes": [
+      "irish-luck",
+      "animals"
+    ],
+    "mechanics": [
+      "paylines",
+      "hold-and-win",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 95.58,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2020-08-06"
+  },
+  {
+    "id": "g_0044",
+    "canonicalId": "amethyst-antler-grove|mythic-spin",
+    "title": "Amethyst Antler Grove",
+    "provider": "Mythic Spin",
+    "category": "slot",
+    "description": "Deer with crystalline antlers stand among amethyst trees on a six-by-six forest grid. Matching gems and animal symbols form clusters that cascade, and free spins can add multipliers to subsequent wins.",
+    "themes": [
+      "gems",
+      "animals",
+      "fantasy"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels",
+      "free-spins",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 94.61,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2022-12-15"
+  },
+  {
+    "id": "g_0045",
+    "canonicalId": "dustrail-cluster-saloon|sunforge-studios",
+    "title": "Dustrail Cluster Saloon",
+    "provider": "Sunforge Studios",
+    "category": "slot",
+    "description": "A frontier saloon fills a compact reel grid with wanted posters, spurs, and weathered coin symbols. Matching symbols connect in clusters, with cascading reels clearing wins and dropping new symbols into place.",
+    "themes": [
+      "western"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels"
+    ],
+    "volatility": "high",
+    "rtp": 96.12,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2021-04-15"
+  },
+  {
+    "id": "g_0046",
+    "canonicalId": "canyon-claim-cascades|northwind-gaming",
+    "title": "Canyon Claim Cascades",
+    "provider": "Northwind Gaming",
+    "category": "slot",
+    "description": "A mining camp sits among red-rock canyons, with ore carts and claim markers across the reels. Winning combinations trigger cascading reels, while multipliers can increase during successive cascades.",
+    "themes": [
+      "western"
+    ],
+    "mechanics": [
+      "cascading-reels",
+      "multipliers",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 95.84,
+    "brands": [
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2022-08-09"
+  },
+  {
+    "id": "g_0047",
+    "canonicalId": "six-shooter-sticky-wilds|velvet-reel",
+    "title": "Six-Shooter Sticky Wilds",
+    "provider": "Velvet Reel",
+    "category": "slot",
+    "description": "A dusty main street and its six-shooter-toting characters form the backdrop for a five-reel western game. Sticky wilds can remain in place across spins, and free spins provide additional chances to land combinations.",
+    "themes": [
+      "western"
+    ],
+    "mechanics": [
+      "paylines",
+      "sticky-wilds",
+      "free-spins"
+    ],
+    "volatility": "high",
+    "rtp": 96.45,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2020-11-23"
+  },
+  {
+    "id": "g_0048",
+    "canonicalId": "prairie-payday-free-spins|ironclad-interactive",
+    "title": "Prairie Payday Free Spins",
+    "provider": "Ironclad Interactive",
+    "category": "slot",
+    "description": "A prairie homestead, stagecoach, and cattle drive appear on a traditional reel layout. Scattered trail signs can award free spins, where expanding wilds alter the reel positions as play continues.",
+    "themes": [
+      "western"
+    ],
+    "mechanics": [
+      "paylines",
+      "free-spins",
+      "expanding-wilds"
+    ],
+    "volatility": "medium",
+    "rtp": 94.76,
+    "brands": [
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2023-03-06"
+  },
+  {
+    "id": "g_0049",
+    "canonicalId": "ghost-town-hold-win|starlight-works",
+    "title": "Ghost Town Hold & Win",
+    "provider": "Starlight Works",
+    "category": "slot",
+    "description": "An abandoned frontier town supplies the symbols for a western-themed five-reel slot. Bonus tokens can start a hold-and-win feature, locking collected symbols in place while remaining spins are retriggered by new tokens.",
+    "themes": [
+      "western"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "hold-and-win",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 95.31,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2024-06-18"
+  },
+  {
+    "id": "g_0050",
+    "canonicalId": "jade-pagoda-cluster-coins|cobalt-play",
+    "title": "Jade Pagoda Cluster Coins",
+    "provider": "Cobalt Play",
+    "category": "slot",
+    "description": "Jade ornaments, pagoda lanterns, and lucky coins fill a grid framed by a mountain temple. Matching symbols form clusters, and winning groups disappear as new symbols cascade into the grid.",
+    "themes": [
+      "asian"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels",
+      "multipliers"
+    ],
+    "volatility": "medium",
+    "rtp": 96.28,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "inactive",
+    "releaseDate": "2021-09-02"
+  },
+  {
+    "id": "g_0051",
+    "canonicalId": "silk-road-dragon-ways|emerald-harbor",
+    "title": "Silk Road Dragon Ways",
+    "provider": "Emerald Harbor",
+    "category": "slot",
+    "description": "A caravan travels through stylized Asian markets beneath a coiling dragon, represented across a multi-reel layout. Ways-to-win combinations connect matching symbols on adjacent reels, with free spins adding a multiplier to wins.",
+    "themes": [
+      "asian",
+      "adventure"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "free-spins",
+      "multipliers"
+    ],
+    "volatility": "medium",
+    "rtp": 95.67,
+    "brands": [
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2020-02-13"
+  },
+  {
+    "id": "g_0052",
+    "canonicalId": "lantern-festival-expanding-wilds|mythic-spin",
+    "title": "Lantern Festival Expanding Wilds",
+    "provider": "Mythic Spin",
+    "category": "slot",
+    "description": "Colorful lanterns, drums, and festival masks decorate a five-reel celebration beneath a night sky. Special lantern symbols can expand into wilds, while free spins offer further opportunities for line combinations.",
+    "themes": [
+      "asian",
+      "festive"
+    ],
+    "mechanics": [
+      "paylines",
+      "expanding-wilds",
+      "free-spins"
+    ],
+    "volatility": "high",
+    "rtp": 96.03,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2022-12-01"
+  },
+  {
+    "id": "g_0053",
+    "canonicalId": "moon-gate-mahjong-reels|sunforge-studios",
+    "title": "Moon Gate Mahjong Reels",
+    "provider": "Sunforge Studios",
+    "category": "slot",
+    "description": "A moonlit garden and carved stone gate frame a reel game featuring mahjong-inspired tiles and Asian decorative motifs. Matching symbols pay across adjacent reels, and a pick bonus lets players reveal additional free spins or multipliers.",
+    "themes": [
+      "asian"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "pick-bonus",
+      "free-spins"
+    ],
+    "volatility": "low",
+    "rtp": 94.92,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2025-01-16"
+  },
+  {
+    "id": "g_0054",
+    "canonicalId": "mochi-meteor-cluster-kitchen|northwind-gaming",
+    "title": "Mochi Meteor Cluster Kitchen",
+    "provider": "Northwind Gaming",
+    "category": "slot",
+    "description": "A playful confectionery kitchen turns out mochi, fruit sweets, and star-shaped treats beneath a meteor shower. Connected matching sweets form clusters, and cascading reels can create successive wins in the same spin.",
+    "themes": [
+      "food-candy",
+      "space"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 96.39,
+    "brands": [
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2023-07-20"
+  },
+  {
+    "id": "g_0055",
+    "canonicalId": "caramel-comet-cascading-kitchen|velvet-reel",
+    "title": "Caramel Comet Cascading Kitchen",
+    "provider": "Velvet Reel",
+    "category": "slot",
+    "description": "Caramel apples, spun-sugar comets, and candy jars fill a bright dessert-themed reel set. Wins trigger cascades that remove matched symbols, while a growing multiplier tracks consecutive cascades.",
+    "themes": [
+      "food-candy"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "cascading-reels",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 95.58,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2019-10-04"
+  },
+  {
+    "id": "g_0056",
+    "canonicalId": "licorice-labyrinth-sticky-sweets|ironclad-interactive",
+    "title": "Licorice Labyrinth Sticky Sweets",
+    "provider": "Ironclad Interactive",
+    "category": "slot",
+    "description": "A winding candy maze is populated by licorice twists, gumdrops, and peppermint gates. Sticky wild sweets can remain on the reels for multiple spins, and free spins add extra chances to complete combinations.",
+    "themes": [
+      "food-candy",
+      "fantasy"
+    ],
+    "mechanics": [
+      "paylines",
+      "sticky-wilds",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 94.63,
+    "brands": [
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2024-02-27"
+  },
+  {
+    "id": "g_0057",
+    "canonicalId": "peppermint-pantry-hold-win|starlight-works",
+    "title": "Peppermint Pantry Hold & Win",
+    "provider": "Starlight Works",
+    "category": "slot",
+    "description": "A festive pantry displays jars of peppermint drops, iced biscuits, and sugared fruit on a five-reel layout. Collectible candy symbols can initiate a hold-and-win round, where each new symbol can refresh the remaining spins.",
+    "themes": [
+      "food-candy",
+      "festive"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "hold-and-win",
+      "pick-bonus"
+    ],
+    "volatility": "high",
+    "rtp": 96.71,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2021-12-10"
+  },
+  {
+    "id": "g_0058",
+    "canonicalId": "velvet-vinyl-encore-free-spins|cobalt-play",
+    "title": "Velvet Vinyl Encore Free Spins",
+    "provider": "Cobalt Play",
+    "category": "slot",
+    "description": "A vintage music hall sets the stage for reels featuring records, microphones, and brass instruments. Encore symbols award free spins, during which wild records can expand across their reels.",
+    "themes": [
+      "music"
+    ],
+    "mechanics": [
+      "paylines",
+      "free-spins",
+      "expanding-wilds"
+    ],
+    "volatility": "medium",
+    "rtp": 95.96,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2022-05-12"
+  },
+  {
+    "id": "g_0059",
+    "canonicalId": "blue-note-multiplier-reels|emerald-harbor",
+    "title": "Blue Note Multiplier Reels",
+    "provider": "Emerald Harbor",
+    "category": "slot",
+    "description": "A late-night jazz club backdrop accompanies reels filled with saxophones, sheet music, and stage lights. Cascading wins build a multiplier, and wild notes can substitute for regular symbols in winning combinations.",
+    "themes": [
+      "music"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "cascading-reels",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 96.18,
+    "brands": [
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2020-07-30"
+  },
+  {
+    "id": "g_0060",
+    "canonicalId": "neon-fiddle-cascade|mythic-spin",
+    "title": "Neon Fiddle Cascade",
+    "provider": "Mythic Spin",
+    "category": "slot",
+    "description": "A neon-lit dance hall brings fiddles, drums, and concert posters to a five-reel game. Winning symbols cascade away to reveal new ones, and free spins use a separate reel modifier that can add wild symbols.",
+    "themes": [
+      "music"
+    ],
+    "mechanics": [
+      "paylines",
+      "cascading-reels",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 95.12,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2025-04-08"
+  },
+  {
+    "id": "g_0061",
+    "canonicalId": "gilded-ace-hold-win|sunforge-studios",
+    "title": "Gilded Ace Hold & Win",
+    "provider": "Sunforge Studios",
+    "category": "slot",
+    "description": "A polished casino lounge frames reels of gold cards, crystal chips, and chandelier symbols. Bonus chips trigger a hold-and-win feature, locking collected symbols while new chips can add to the feature total.",
+    "themes": [
+      "vegas-luxury",
+      "classic-casino"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "hold-and-win",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 96.52,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2023-11-14"
+  },
+  {
+    "id": "g_0062",
+    "canonicalId": "champagne-tower-expanding-wilds|northwind-gaming",
+    "title": "Champagne Tower Expanding Wilds",
+    "provider": "Northwind Gaming",
+    "category": "slot",
+    "description": "A lavish hotel ballroom features champagne towers, mirrored columns, and jeweled accessories across a five-reel layout. Special glasses expand into wilds, while free spins allow these wilds to appear on additional reels.",
+    "themes": [
+      "vegas-luxury"
+    ],
+    "mechanics": [
+      "paylines",
+      "expanding-wilds",
+      "free-spins"
+    ],
+    "volatility": "medium",
+    "rtp": 94.88,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2021-06-25"
+  },
+  {
+    "id": "g_0063",
+    "canonicalId": "high-roller-halo-jackpot|velvet-reel",
+    "title": "High-Roller Halo Jackpot",
+    "provider": "Velvet Reel",
+    "category": "slot",
+    "description": "A skyline-facing casino suite provides the setting for reels of premium cards, gold keys, and illuminated signs. A progressive jackpot feature is activated by collecting designated symbols, alongside standard ways-to-win combinations.",
+    "themes": [
+      "vegas-luxury",
+      "classic-casino"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "progressive-jackpot",
+      "pick-bonus"
+    ],
+    "volatility": "high",
+    "rtp": 95.44,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2024-09-19"
+  },
+  {
+    "id": "g_0064",
+    "canonicalId": "frostfire-gift-cluster|ironclad-interactive",
+    "title": "Frostfire Gift Cluster",
+    "provider": "Ironclad Interactive",
+    "category": "slot",
+    "description": "A winter village glows with candles, wrapped gifts, and frosted ornaments on a square reel grid. Matching gifts form clusters, and cascades can expose additional symbols as a win multiplier increases.",
+    "themes": [
+      "festive"
+    ],
+    "mechanics": [
+      "cluster-pays",
+      "cascading-reels",
+      "multipliers"
+    ],
+    "volatility": "medium",
+    "rtp": 96.07,
+    "brands": [
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2019-12-12"
+  },
+  {
+    "id": "g_0065",
+    "canonicalId": "harvest-moon-feast-free-spins|starlight-works",
+    "title": "Harvest Moon Feast Free Spins",
+    "provider": "Starlight Works",
+    "category": "slot",
+    "description": "A harvest table of pies, apples, and autumn decorations sets the scene for a seasonal reel game. Moon symbols can award free spins, and wild harvest baskets expand to cover their reels during the feature.",
+    "themes": [
+      "festive",
+      "food-candy"
+    ],
+    "mechanics": [
+      "paylines",
+      "free-spins",
+      "expanding-wilds"
+    ],
+    "volatility": "low",
+    "rtp": 94.35,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2022-10-06"
+  },
+  {
+    "id": "g_0066",
+    "canonicalId": "masquerade-midnight-multipliers|cobalt-play",
+    "title": "Masquerade Midnight Multipliers",
+    "provider": "Cobalt Play",
+    "category": "slot",
+    "description": "A masked midnight ball supplies the setting for reels of costumes, confetti, and ornate clocks. Cascading wins increase a multiplier, while free spins introduce sticky wild masks that remain for the duration of the feature.",
+    "themes": [
+      "festive",
+      "fantasy"
+    ],
+    "mechanics": [
+      "ways-to-win",
+      "cascading-reels",
+      "multipliers",
+      "sticky-wilds"
+    ],
+    "volatility": "high",
+    "rtp": 96.83,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2025-11-21"
+  },
+  {
+    "id": "g_0067",
+    "canonicalId": "double-orbit-blackjack|sunforge-studios",
+    "title": "Double Orbit Blackjack",
+    "provider": "Sunforge Studios",
+    "category": "table",
+    "description": "A six-deck blackjack table offers standard player-versus-dealer hands with a second hand available each round. Optional side bets resolve from the opening cards.",
+    "themes": [
+      "classic-casino",
+      "space"
+    ],
+    "mechanics": [
+      "multi-hand",
+      "side-bets"
+    ],
+    "volatility": "medium",
+    "rtp": 96.2,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "inactive",
+    "releaseDate": "2021-04-16"
+  },
+  {
+    "id": "g_0068",
+    "canonicalId": "lantern-house-baccarat|northwind-gaming",
+    "title": "Lantern House Baccarat",
+    "provider": "Northwind Gaming",
+    "category": "table",
+    "description": "This baccarat table follows the standard player and banker drawing rules, with a separate tie wager available alongside the main bets. The table layout uses lantern-inspired detailing drawn from an East Asian setting.",
+    "themes": [
+      "asian",
+      "classic-casino"
+    ],
+    "mechanics": [
+      "side-bets"
+    ],
+    "volatility": "low",
+    "rtp": 96.8,
+    "brands": [
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2020-09-03"
+  },
+  {
+    "id": "g_0069",
+    "canonicalId": "meridian-roulette-pair|velvet-reel",
+    "title": "Meridian Roulette Pair",
+    "provider": "Velvet Reel",
+    "category": "table",
+    "description": "A European roulette table presents a single-zero wheel with a companion layout for placing inside and outside bets. Players can add a neighboring-number side wager before each spin.",
+    "themes": [
+      "vegas-luxury",
+      "classic-casino"
+    ],
+    "mechanics": [
+      "side-bets"
+    ],
+    "volatility": "medium",
+    "rtp": 96.1,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2022-02-11"
+  },
+  {
+    "id": "g_0070",
+    "canonicalId": "velvet-ace-multi-hand-blackjack|ironclad-interactive",
+    "title": "Velvet Ace Multi-Hand Blackjack",
+    "provider": "Ironclad Interactive",
+    "category": "table",
+    "description": "The table uses six decks and lets players open up to three hands against the dealer in the same round. Optional insurance and paired-card wagers sit beside the standard blackjack actions.",
+    "themes": [
+      "vegas-luxury",
+      "classic-casino"
+    ],
+    "mechanics": [
+      "multi-hand",
+      "side-bets"
+    ],
+    "volatility": "medium",
+    "rtp": 96.4,
+    "brands": [
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2023-06-27"
+  },
+  {
+    "id": "g_0071",
+    "canonicalId": "jade-current-baccarat|starlight-works",
+    "title": "Jade Current Baccarat",
+    "provider": "Starlight Works",
+    "category": "table",
+    "description": "A conventional baccarat game uses player and banker hands, with a dragon-themed side wager based on the first two cards. The interface frames the betting layout with flowing jade and water motifs.",
+    "themes": [
+      "asian",
+      "fantasy"
+    ],
+    "mechanics": [
+      "side-bets"
+    ],
+    "volatility": "low",
+    "rtp": 96.7,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2024-01-19"
+  },
+  {
+    "id": "g_0072",
+    "canonicalId": "crownwheel-roulette|cobalt-play",
+    "title": "Crownwheel Roulette",
+    "provider": "Cobalt Play",
+    "category": "table",
+    "description": "This single-zero roulette table includes standard number, color, and range bets around a compact wheel layout. A crown wager pays according to the position of selected neighboring pockets.",
+    "themes": [
+      "classic-casino",
+      "vegas-luxury"
+    ],
+    "mechanics": [
+      "side-bets"
+    ],
+    "volatility": "medium",
+    "rtp": 96,
+    "brands": [
+      "redcrest",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2019-11-08"
+  },
+  {
+    "id": "g_0073",
+    "canonicalId": "emberline-blackjack-side-pot|emerald-harbor",
+    "title": "Emberline Blackjack Side Pot",
+    "provider": "Emerald Harbor",
+    "category": "table",
+    "description": "Players compete against the dealer at a standard multi-deck blackjack table, with a side pot determined by the player's initial cards. The main hand follows familiar hit, stand, double, and split options.",
+    "themes": [
+      "classic-casino",
+      "fantasy"
+    ],
+    "mechanics": [
+      "side-bets"
+    ],
+    "volatility": "medium",
+    "rtp": 96.3,
+    "brands": [
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2022-10-05"
+  },
+  {
+    "id": "g_0074",
+    "canonicalId": "zodiac-pocket-roulette|mythic-spin",
+    "title": "Zodiac Pocket Roulette",
+    "provider": "Mythic Spin",
+    "category": "table",
+    "description": "A European roulette wheel and betting grid are paired with a zodiac side bet that groups selected pockets into signs. Players place conventional roulette wagers before each spin, with the additional wager settled separately.",
+    "themes": [
+      "mythology",
+      "classic-casino"
+    ],
+    "mechanics": [
+      "side-bets"
+    ],
+    "volatility": "medium",
+    "rtp": 96.1,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2025-03-14"
+  },
+  {
+    "id": "g_0075",
+    "canonicalId": "the-copper-lantern-live-blackjack|sunforge-studios",
+    "title": "The Copper Lantern Live Blackjack",
+    "provider": "Sunforge Studios",
+    "category": "live",
+    "description": "A live dealer runs a multi-deck blackjack table with standard player decisions and a camera view of the cards and table. An optional pair wager is available before each hand.",
+    "themes": [
+      "classic-casino",
+      "asian"
+    ],
+    "mechanics": [
+      "live-dealer",
+      "side-bets"
+    ],
+    "volatility": "medium",
+    "rtp": 96.2,
+    "brands": [
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2021-08-20"
+  },
+  {
+    "id": "g_0076",
+    "canonicalId": "north-pier-live-baccarat|northwind-gaming",
+    "title": "North Pier Live Baccarat",
+    "provider": "Northwind Gaming",
+    "category": "live",
+    "description": "A studio dealer presents baccarat rounds using the standard player and banker drawing rules. The table also offers a tie side bet, with cards and results shown in the live feed.",
+    "themes": [
+      "classic-casino",
+      "adventure"
+    ],
+    "mechanics": [
+      "live-dealer",
+      "side-bets"
+    ],
+    "volatility": "low",
+    "rtp": 96.7,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2020-05-12"
+  },
+  {
+    "id": "g_0077",
+    "canonicalId": "midnight-velvet-live-roulette|velvet-reel",
+    "title": "Midnight Velvet Live Roulette",
+    "provider": "Velvet Reel",
+    "category": "live",
+    "description": "A live presenter spins a single-zero roulette wheel while players place bets on a digital layout. A neighbors wager lets players cover pockets adjacent to a selected number.",
+    "themes": [
+      "vegas-luxury",
+      "classic-casino"
+    ],
+    "mechanics": [
+      "live-dealer",
+      "side-bets"
+    ],
+    "volatility": "medium",
+    "rtp": 96,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2023-09-21"
+  },
+  {
+    "id": "g_0078",
+    "canonicalId": "golden-mask-live-sic-bo|ironclad-interactive",
+    "title": "Golden Mask Live Sic Bo",
+    "provider": "Ironclad Interactive",
+    "category": "live",
+    "description": "A live dealer reveals three dice each round, and players choose from standard totals and combination wagers on the betting panel. The studio uses an ancient Egyptian visual design for the table and dice display.",
+    "themes": [
+      "ancient-egypt",
+      "classic-casino"
+    ],
+    "mechanics": [
+      "live-dealer",
+      "side-bets"
+    ],
+    "volatility": "high",
+    "rtp": 96.1,
+    "brands": [
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2024-04-02"
+  },
+  {
+    "id": "g_0079",
+    "canonicalId": "clocktower-cash-wheel-live|starlight-works",
+    "title": "Clocktower Cash Wheel Live",
+    "provider": "Starlight Works",
+    "category": "live",
+    "description": "A live host spins a numbered prize wheel, with players selecting segments before each round. A separate bonus wager is settled from marked spaces on the wheel.",
+    "themes": [
+      "game-show",
+      "fantasy"
+    ],
+    "mechanics": [
+      "live-dealer",
+      "side-bets"
+    ],
+    "volatility": "high",
+    "rtp": 95.8,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2022-07-30"
+  },
+  {
+    "id": "g_0080",
+    "canonicalId": "aurora-vault-live-wheel|cobalt-play",
+    "title": "Aurora Vault Live Wheel",
+    "provider": "Cobalt Play",
+    "category": "live",
+    "description": "A live presenter spins a large wheel divided into numbered and feature segments, while players choose outcomes on a digital betting board. The feature wager adds a separate selection tied to marked wheel segments.",
+    "themes": [
+      "game-show",
+      "space"
+    ],
+    "mechanics": [
+      "live-dealer",
+      "side-bets"
+    ],
+    "volatility": "high",
+    "rtp": 95.6,
+    "brands": [
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2025-06-06"
+  },
+  {
+    "id": "g_0081",
+    "canonicalId": "harbor-lights-live-blackjack|emerald-harbor",
+    "title": "Harbor Lights Live Blackjack",
+    "provider": "Emerald Harbor",
+    "category": "live",
+    "description": "A live dealer hosts a blackjack table with several player positions and standard hit, stand, split, and double options. Players may also place a side wager on their opening hand before the cards are dealt.",
+    "themes": [
+      "classic-casino",
+      "underwater"
+    ],
+    "mechanics": [
+      "live-dealer",
+      "side-bets"
+    ],
+    "volatility": "medium",
+    "rtp": 96.2,
+    "brands": [
+      "northstar",
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2019-03-25"
+  },
+  {
+    "id": "g_0082",
+    "canonicalId": "comet-kite-crash|mythic-spin",
+    "title": "Comet Kite Crash",
+    "provider": "Mythic Spin",
+    "category": "instant",
+    "description": "A paper kite climbs through a starry sky as a rising multiplier advances during each round. Players choose when to cash out, with the round ending when the kite leaves its flight path.",
+    "themes": [
+      "space",
+      "adventure"
+    ],
+    "mechanics": [
+      "crash",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 96,
+    "brands": [
+      "redcrest",
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2021-12-02"
+  },
+  {
+    "id": "g_0083",
+    "canonicalId": "mosswood-scratch-expedition|sunforge-studios",
+    "title": "Mosswood Scratch Expedition",
+    "provider": "Sunforge Studios",
+    "category": "instant",
+    "description": "A scratch-card adventure reveals map fragments beneath removable panels, with matching landmarks determining the result. A short pick stage lets players uncover one additional location after qualifying reveals.",
+    "themes": [
+      "adventure",
+      "fantasy"
+    ],
+    "mechanics": [
+      "scratch",
+      "pick-bonus"
+    ],
+    "volatility": "medium",
+    "rtp": 95.4,
+    "brands": [
+      "lucky-harbour"
+    ],
+    "status": "active",
+    "releaseDate": "2020-02-18"
+  },
+  {
+    "id": "g_0084",
+    "canonicalId": "deep-current-crash|northwind-gaming",
+    "title": "Deep Current Crash",
+    "provider": "Northwind Gaming",
+    "category": "instant",
+    "description": "A small submersible descends through underwater caverns while the round multiplier increases. Players can collect their current value at any time before the descent ends unexpectedly.",
+    "themes": [
+      "underwater",
+      "adventure"
+    ],
+    "mechanics": [
+      "crash",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 96.1,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "inactive",
+    "releaseDate": "2023-11-10"
+  },
+  {
+    "id": "g_0085",
+    "canonicalId": "hollow-orchard-scratch|velvet-reel",
+    "title": "Hollow Orchard Scratch",
+    "provider": "Velvet Reel",
+    "category": "instant",
+    "description": "Players scratch illustrated orchard panels to uncover symbols associated with a harvest festival. Matching sets reveal the result, and a bonus panel may open a brief selection round.",
+    "themes": [
+      "horror",
+      "festive"
+    ],
+    "mechanics": [
+      "scratch",
+      "pick-bonus"
+    ],
+    "volatility": "medium",
+    "rtp": 95.2,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2024-10-24"
+  },
+  {
+    "id": "g_0086",
+    "canonicalId": "cinder-mine-crash|ironclad-interactive",
+    "title": "Cinder Mine Crash",
+    "provider": "Ironclad Interactive",
+    "category": "instant",
+    "description": "A mining cart moves through a gem-lined tunnel as its multiplier rises with each passing marker. Players decide when to stop the run and collect, before a tunnel collapse ends the round.",
+    "themes": [
+      "gems",
+      "adventure"
+    ],
+    "mechanics": [
+      "crash",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 95.9,
+    "brands": [
+      "northstar"
+    ],
+    "status": "active",
+    "releaseDate": "2022-05-17"
+  },
+  {
+    "id": "g_0087",
+    "canonicalId": "goal-line-surge|starlight-works",
+    "title": "Goal Line Surge",
+    "provider": "Starlight Works",
+    "category": "instant",
+    "description": "A football-themed run advances a ball downfield while the multiplier increases at each marked yard line. Players can cash out at any point before the run ends on a turnover event.",
+    "themes": [
+      "sports"
+    ],
+    "mechanics": [
+      "crash",
+      "multipliers"
+    ],
+    "volatility": "high",
+    "rtp": 96,
+    "brands": [
+      "northstar",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2025-08-08"
+  },
+  {
+    "id": "g_0088",
+    "canonicalId": "moonlit-marquee-bingo|cobalt-play",
+    "title": "Moonlit Marquee Bingo",
+    "provider": "Cobalt Play",
+    "category": "bingo",
+    "description": "Players mark numbered cards as a caller announces draws in a moonlit theater setting. A round ends when a listed line or card pattern is completed, with a bonus selection available for qualifying patterns.",
+    "themes": [
+      "festive",
+      "game-show"
+    ],
+    "mechanics": [
+      "pick-bonus",
+      "progressive-jackpot"
+    ],
+    "volatility": "medium",
+    "rtp": 95.5,
+    "brands": [
+      "lucky-harbour",
+      "redcrest"
+    ],
+    "status": "active",
+    "releaseDate": "2023-01-13"
+  }
+]
