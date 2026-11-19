@@ -1,0 +1,27 @@
+{
+  "name": "ai-game-recommender",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Related-games recommender service: LLM catalogue enrichment + embedding similarity.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test test/*.test.ts",
+    "start": "tsx src/server.ts",
+    "demo": "tsx scripts/demo.ts",
+    "eval": "tsx eval/run-eval.ts",
+    "generate:catalogue": "tsx scripts/generate-catalogue.ts",
+    "build:index": "tsx src/pipeline/build-index.ts"
+  },
+  "dependencies": {
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
